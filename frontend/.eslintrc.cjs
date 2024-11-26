@@ -18,5 +18,6 @@ module.exports = {
       { allowConstantExport: true },
     ],
     'no-unused-vars': 'off', // 에러를 경고로 변경
+    // 'react/prop-types' : 'off'
   },
 };

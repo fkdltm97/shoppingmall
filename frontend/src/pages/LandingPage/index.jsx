@@ -2,11 +2,10 @@ import React from "react";
 
 const LandingPage = () => {
 
-
   return (
-  <div>
-
-  </div>
+    <div>
+      랜딩페이지
+    </div>
   );
 };
 
